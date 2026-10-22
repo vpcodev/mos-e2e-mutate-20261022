@@ -1,0 +1,44 @@
+{
+  "plugins": [
+    {
+      "description": "Mutate fixture p1",
+      "version": "1.0.0",
+      "source": "./plugins/p1",
+      "name": "p1"
+    },
+    {
+      "description": "Mutate fixture p2",
+      "version": "1.0.0",
+      "source": "./plugins/p2",
+      "name": "p2"
+    },
+    {
+      "description": "Mutate fixture p3",
+      "version": "1.0.0",
+      "source": "./plugins/p3",
+      "name": "p3"
+    },
+    {
+      "description": "Mutate fixture p4",
+      "version": "1.0.0",
+      "source": "./plugins/p4",
+      "name": "p4"
+    },
+    {
+      "description": "Mutate fixture p5",
+      "version": "1.0.0",
+      "source": "./plugins/p5",
+      "name": "p5"
+    },
+    {
+      "description": "Mutate fixture p6",
+      "version": "1.0.0",
+      "source": "./plugins/p6",
+      "name": "p6"
+    }
+  ],
+  "owner": {
+    "name": "vpcodev"
+  },
+  "name": "mos-e2e-mutate"
+}
